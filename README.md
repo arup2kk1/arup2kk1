@@ -30,12 +30,6 @@ Thrilled to connect with you here! As a developer, I'm adept in *Flutter, **Dart
 
 ![Arup Kumar Das's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arup2kk1&show_icons=true&count_private=true&theme=radical)
 
-- *Total Stars Earned*: 19
-- *Total Commits (2024)*: 771
-- *Total PRs*: 62
-- *Total Issues*: 23
-- *Contributed to (last year)*: 22
-
 ---
 
 ### Most Used Languages:
