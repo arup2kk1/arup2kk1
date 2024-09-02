@@ -28,7 +28,7 @@ Thrilled to connect with you here! As a developer, I'm adept in *Flutter, **Dart
 
 ### GitHub Stats:
 
-![Arup Kumar Das's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&count_private=true&theme=radical)
+![Arup Kumar Das's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arup2kk1&show_icons=true&count_private=true&theme=radical)
 
 - *Total Stars Earned*: 19
 - *Total Commits (2024)*: 771
@@ -40,7 +40,7 @@ Thrilled to connect with you here! As a developer, I'm adept in *Flutter, **Dart
 
 ### Most Used Languages:
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arup2kk1&layout=compact&theme=radical)
 
 ---
 
