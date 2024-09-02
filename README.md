@@ -2,7 +2,7 @@
 
 ### A passionate Android Developer and Full Stack Developer
 
-Thrilled to connect with you here! As a developer, I'm adept in *Flutter, **Dart, **Firebase, and also proficient in **HTML5, **CSS, **JavaScript, **MongoDB, **Node.js, and **React*. I'm passionate about creating engaging, user-friendly mobile and web applications. Eager to learn and grow, I seek new opportunities to enhance my skills and contribute to innovative projects.
+Thrilled to connect with you here! As a developer, I'm adept in *Flutter, **Dart, **Firebase, and also proficient in **HTML, **CSS, **JavaScript, **MongoDB, **Node.js, and **React*. I'm passionate about creating engaging, user-friendly mobile and web applications. Eager to learn and grow, I seek new opportunities to enhance my skills and contribute to innovative projects.
 
 - 🌱 I’m currently working on my private projects.
 - 📚 I’m currently learning Gen AI and enhancing my development skills.
